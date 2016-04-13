@@ -1,0 +1,36 @@
+//
+//  rrcc_distribution.pch
+//  rrcc_distribution
+//
+//  Created by lawwilte on 8/25/15.
+//  Copyright (c) 2015 ting liu. All rights reserved.
+//
+
+#ifndef rrcc_distribution_rrcc_distribution_pch
+#define rrcc_distribution_rrcc_distribution_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Foundation_defines.h"
+#import <CommonCrypto/CommonDigest.h>
+#import "Foundation.h"
+#import <UIKit/UIKit.h>
+#import "Utility.h"
+#import "AppDelegate.h"
+#import "AFNetworking.h"
+#import "XHBaseViewController.h"
+#import "UIColor+expanded.h"
+#import "NSString+expanded.h"
+#import "NSDictionary+expanded.h"
+#import "RestHttpRequest.h"
+#import "RHMethods.h"
+#import "MJRefresh.h"
+#import "MJRefreshFooter.h"
+#import "Config.h"
+#import "UIImageView+WebCache.h"
+#import <CoreData/CoreData.h>
+
+
+
+#endif
